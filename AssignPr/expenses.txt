@@ -1,0 +1,12 @@
+Rent: 1200
+Utilities: 150
+Groceries: 300
+Transportation: 100
+Insurance: 200
+Healthcare: 250
+Entertainment: 100
+Education: 500
+Savings and Investments: 400
+
+
+

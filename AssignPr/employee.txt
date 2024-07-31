@@ -1,0 +1,2 @@
+Name	Age	Salary
+Nihal	22	00000000
